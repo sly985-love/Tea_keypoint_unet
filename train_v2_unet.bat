@@ -1,0 +1,1 @@
+start cmd /k "python train_v2_unet.py"
